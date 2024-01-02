@@ -1,0 +1,9 @@
+#id{
+    background-color: #b8860b; padding: 8px; border: 5px dotted rgb(45, 0, 87);
+}
+#id2{
+    background-color: olive;padding: 8px;margin-top: 30px; border: 5px dashed rgb(43, 0, 0);
+}
+#id3{
+    background-color: forestgreen; padding: 8px; margin-top: 30px; border: 5px solid black;
+}
